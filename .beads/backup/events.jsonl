@@ -1,0 +1,6 @@
+{"actor":"mayor","comment":null,"created_at":"2026-03-05T21:54:35Z","event_type":"created","id":1,"issue_id":"mac-4jo","new_value":"","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-05T21:54:35Z","event_type":"created","id":2,"issue_id":"mac-74k","new_value":"","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-05T21:54:35Z","event_type":"created","id":3,"issue_id":"mac-7sl","new_value":"","old_value":""}
+{"actor":"mayor","comment":null,"created_at":"2026-03-05T21:54:35Z","event_type":"created","id":4,"issue_id":"mac-rig-multi_agent_compete","new_value":"","old_value":""}
+{"actor":"mayor","comment":"Added label: gt:rig","created_at":"2026-03-05T21:54:35Z","event_type":"label_added","id":5,"issue_id":"mac-rig-multi_agent_compete","new_value":null,"old_value":null}
+{"actor":"mayor","comment":null,"created_at":"2026-03-05T21:56:10Z","event_type":"created","id":6,"issue_id":"mac-g20","new_value":"","old_value":""}
